@@ -1,5 +1,7 @@
 # Dense Neural Network using Tensorflow
 
+Model based on tensorflow tutorial.
+
 * Build Model
 * Download MNIST fashion data and pre-process
 * Compile Model
